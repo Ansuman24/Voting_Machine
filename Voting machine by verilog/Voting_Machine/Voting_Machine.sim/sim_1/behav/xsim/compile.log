@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/BUNU/PROJECTS/Voting machine by verilog/Voting_Machine/Voting_Machine.srcs/sources_1/new/Voting_mac.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Voting_mac
+INFO: [VRFC 10-311] analyzing module votelogger
+INFO: [VRFC 10-311] analyzing module modecontrol
+INFO: [VRFC 10-311] analyzing module votingmachine
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/BUNU/PROJECTS/Voting machine by verilog/Voting_Machine/Voting_Machine.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
